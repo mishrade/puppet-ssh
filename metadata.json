@@ -1,7 +1,7 @@
 {
   "name": "deepika-ssh",
   "version": "0.1.0",
-  "author": "deepika",
+  "author": "Deepika Mishra",
   "summary": "This module will manage ssh",
   "license": "Apache-2.0",
   "source": "https://github.com/mishrade/puppet-ssh",
